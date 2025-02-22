@@ -80,9 +80,7 @@ work:
     date_end: 2024-08-27
     summary: |2-
       Responsibilities include:
-      - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 using python.
-      - Mapped singular configurations in C-space to improve motion planning. Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment
-  - position: Backend Software Engineer
+      - Collaborated on robotic surgery for 
     company_name: X
     company_url: ''
     company_logo: ''
