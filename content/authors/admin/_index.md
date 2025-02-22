@@ -59,6 +59,7 @@ education:
     date_end: 2025-12-01
     summary: |
       GPA: 3.8/4.0
+    
       Relevant Courses: Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
     
   - area: BS in Computer Engineering
@@ -67,6 +68,7 @@ education:
     date_end: 2022-05-22
     summary: |
       GPA: 3.85/4.0 (Gold Medalist)
+    
       Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
 
 work:
