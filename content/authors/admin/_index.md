@@ -53,79 +53,107 @@ interests:
   - Project Management
 
 education:
-  - area: MS Robotics
-    institution: University of Minnesota
-    date_start: 2024-01-06
-    date_end: 2026-04-20
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-      Courses included:
-      - Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
-
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BS Computer Engineering
-    institution: Khwaja Fareed University of Engineering-KFUEIT
-    date_start: 2018-08-01
-    date_end: 2022-05-22
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.85/4.0
+      GPA: 3.8/4.0
 
       Courses included:
-      - Microcontrollers, AI, Machine learning, Computer Vision, Image processing, Control systems
-
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Research Assistant
-    company_name: University of Minnesota
-    date_start: 2024-06-01
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
     date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
-      - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
-  
-  - position: Technical Project Manager
-    company_name: Quantum-h, UK
-    date_start: 2023-01-01
-    date_end: 2024-01-01
-    summary: |
-      - Led Agile teams for software development and data management.
-      - Designed scalable database architectures, improving data retrieval speed by 30%.
-  
-  - position: Research Assistant
-    company_name: Abel & Mercer Co., UK
-    date_start: 2022-01-01
-    date_end: 2023-01-01
-    summary: |
-      - Developed AI-powered image recognition models using TensorFlow and PyTorch.
-      - Enhanced real-time image processing with optimized Numpy computations.
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - category: Programming Languages
+  - name: Technical Skills
     items:
-      - Python
-      - C/C++
-      - C#
-      - JavaScript
-      - MATLAB
-      - SQL
-  
-  - category: Tools & Frameworks
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
-      - Git/GitHub
-      - Linux
-      - CUDA
-      - PyTorch
-      - OpenCV
-      - PyBullet
-      - JIRA
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
-certificates:
-  - title: Machine Learning
-  - title: Python for AI
-  - title: Convolutional Neural Networks
-  - title: SQL
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -155,4 +183,5 @@ awards:
 ---
 
 ## About Me
-Shizra Tariq is a Robotics and Machine Learning Engineer specializing in AI, Computer Vision, and Robotics. She has experience in both research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work focuses on deep learning, NLP, and optimizing AI models for practical applications.
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
