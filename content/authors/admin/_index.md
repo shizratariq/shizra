@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/shizratariq
   - icon: brands/linkedin
-    url: https://www.linkedin.com/shizratariq
+    url: https://www.linkedin.com/in/shizratariq/
 #  - icon: academicons/google-scholar
  #   url: https://scholar.google.com/
 #  - icon: academicons/orcid
