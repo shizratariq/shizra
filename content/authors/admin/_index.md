@@ -133,7 +133,7 @@ awards:
     awarder: Higher Education Commission, Pakistan
   - title: Global UGRAD Program Awardee
     awarder: IREX, USA (Fall 2021)
-
+---
 ## About Me
 Shizra Tariq is a Robotics and Machine Learning Engineer specializing in AI, Computer Vision, and Robotics. She has experience in both research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work focuses on deep learning, NLP, and optimizing AI models for practical applications.
 ---
