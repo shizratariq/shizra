@@ -84,7 +84,6 @@ work:
       - Worked with ROS2 and MoveIt2 using Python.
       - Mapped singular configurations in C-space to improve motion planning.
       - Developed path-planning algorithms for constrained and unconstrained trajectories.
-      - Ensured collision avoidance in an aquatic environment.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
