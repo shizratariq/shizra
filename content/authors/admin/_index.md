@@ -78,6 +78,8 @@ education:
 work:
 - position: Research Assistant
     company_name: University of Minnesota
+    company_url: ''
+    company_logo: ''
     date_start: 2024-06-01
     date_end: ''
     summary: |
@@ -86,6 +88,8 @@ work:
   
   - position: Technical Project Manager
     company_name: Quantum-h, UK
+    company_url: ''
+    company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-01-01
     summary: |
