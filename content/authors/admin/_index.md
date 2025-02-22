@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shizra Tariq is a Robotics and Machine Learning Engineer specializing in AI, Computer Vision, and Robotics. She has experience in both research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work focuses on deep learning, NLP, and optimizing AI models for practical applications.
