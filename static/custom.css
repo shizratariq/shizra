@@ -1,0 +1,19 @@
+:root {
+  /* Primary brand color */
+  --primary: #2B6CB0;  /* Change this blue to your color */
+  
+  /* Text colors */
+  --text-primary: #1A202C;
+  --text-secondary: #4A5568;
+  
+  /* Backgrounds */
+  --background: #FFFFFF;
+  --secondary-bg: #F7FAFC;
+}
+
+/* For dark mode (if needed) */
+[data-dark-mode] {
+  --primary: #63B3ED;
+  --background: #1A202C;
+  --text-primary: #F7FAFC;
+}
