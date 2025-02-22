@@ -1,19 +1,18 @@
+/* Primary theme color */
 :root {
-  /* Primary brand color */
-  --primary: #2B6CB0;  /* Change this blue to your color */
-  
-  /* Text colors */
-  --text-primary: #1A202C;
-  --text-secondary: #4A5568;
-  
-  /* Backgrounds */
-  --background: #FFFFFF;
-  --secondary-bg: #F7FAFC;
+  --primary: #2B6CB0;  /* Main brand color */
+  --primary-hover: #2C5282;  /* Hover state */
+  --text-primary: #1A202C;  /* Body text */
+  --background: #FFFFFF;  /* Page background */
 }
 
-/* For dark mode (if needed) */
+/* Dark mode override */
 [data-dark-mode] {
   --primary: #63B3ED;
   --background: #1A202C;
-  --text-primary: #F7FAFC;
+}
+
+/* Navbar (matches YAML config) */
+.navbar {
+  background-color: var(--primary) !important;
 }
