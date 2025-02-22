@@ -33,6 +33,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
+    background_color: "#003324" 
     show_theme_chooser: true
     logo:
       text: "Shizra Tariq"
