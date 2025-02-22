@@ -21,6 +21,15 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+module:
+  mounts:
+    - source: config/_default/custom.css
+      target: assets/css/custom.css
+
+assets:
+  custom_css: ["css/custom.css"]
+
+  
 build:
   writeStats: true
 enableGitInfo: false
