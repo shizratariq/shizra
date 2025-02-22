@@ -60,8 +60,7 @@ education:
     summary: |
       GPA: 3.8/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
 
     button:
       text: 'Read Thesis'
@@ -74,107 +73,113 @@ education:
       GPA: 3.85/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microcontrollers, AI, Machine learning, Computer Vision, Image processing, Control systems
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+- position: Research Assistant
+    company_name: University of Minnesota
+    date_start: 2024-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Worked on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2.
+      - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
+  
+  - position: Technical Project Manager
+    company_name: Quantum-h, UK
+    date_start: 2023-01-01
+    date_end: 2024-01-01
+    summary: |
+      - Led Cross-Functional Agile teams for software development and data management.
+      - Designed scalable database architectures, improving data retrieval speed by 30%.
+  
+  - position: Research Assistant
+    company_name: Abel & Mercer Co., UK
+    date_start: 2022-01-01
+    date_end: 2023-01-01
+    summary: |
+      - Developed AI-powered image recognition models using TensorFlow and PyTorch.
+      - Improved real-time image processing with high-performance Numpy computations.
+
+  - position: Machine Learning Intern
+    company_name: Advance Automation & Robotics Lab - ARAL, Pakistan
+    date_start: 2022-01-01
+    date_end: 2022-12-01
+    summary: |
+      - Worked on the Prosthetic Arm project, implementing SVM classification using MATLAB and Python.
+      - Processed muscle signal data and utilized Python libraries for analysis.
+  
+  - position: AI Intern
+    company_name: OPENAIMP, USA
+    date_start: 2021-01-01
+    date_end: 2021-12-01
+    summary: |
+      - Engineered AI chatbots with RASA, reducing response time by over 10 seconds.
+  
+projects:
+  - title: Breast Cancer Detection
+    description: Developed a mammography-based breast cancer detection system achieving 96.49% accuracy.
+    link: https://github.com/shizratariq/Breast-Cancer-Detection
+
+  - title: Super Resolution & Object Detection
+    description: Used SRGAN to enhance aerial imagery and YOLOv11-OBB for improved object detection.
+    link: https://github.com/anwesha-umn/Super_resolution_object_detection
+
+  - title: Turtlebot3 RRT Pathfinder
+    description: Implemented RRT algorithm for autonomous navigation using Gazebo simulation.
+    link: https://github.com/shizratariq/Turtlebot3-RRT-Pathfinder.git
+
+  - title: Accurate Subtitle Generation
+    description: Integrated Whisper-Timestamped with LLMs to reduce WER/CER by 30% for video subtitles.
+    link: https://github.com/anwesha-umn/TranscribeAI_subtitle_generation.git
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      - name: C/C++
+      - name: C#
+      - name: JavaScript
+      - name: MATLAB
       - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  
+  - name: Tools & Frameworks
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Git/GitHub
+      - name: Linux
+      - name: CUDA
+      - name: PyTorch
+      - name: OpenCV
+      - name: PyBullet
+      - name: JIRA
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Urdu
+    percent: 100
+  - name: Punjabi
+    percent: 100
 
+certificates:
+  - title: Machine Learning
+  - title: Python for AI
+  - title: Convolutional Neural Networks
+  - title: SQL
+  - 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+  - title: Fulbright Scholarship Program 2023 Awardee
+    awarder: IIE, USA
+  - title: Nominated for National Youth Award
+    awarder: Higher Education Commission, Pakistan
+  - title: Global UGRAD Program Awardee
+    awarder: IREX, USA (Fall 2021)
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shizra Tariq is a Robotics and Machine Learning Engineer with expertise in AI, Computer Vision, and Robotics. She has experience in research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work involves deep learning, NLP, and optimizing AI models for practical applications.
+---
