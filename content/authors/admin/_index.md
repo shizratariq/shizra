@@ -56,7 +56,7 @@ education:
   - area: MS Robotics
     institution: University of Minnesota
     date_start: 2024-01-06
-    date_end: 2026-4-20
+    date_end: 2026-04-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
