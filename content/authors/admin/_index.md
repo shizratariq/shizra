@@ -53,37 +53,20 @@ interests:
   - Project Management
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS in Robotics
+    institution: University of Minnesota
+    date_start: 2024-01-06
+    date_end: 2025-12-01
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Relevant Courses: Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
+  - area: BS in Computer Engineering
+    institution: Khwaja Fareed University of Engineering - KFUEIT
+    date_start: 2018-08-01
+    date_end: 2022-05-22
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.85/4.0 (Gold Medalist)
+      Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
