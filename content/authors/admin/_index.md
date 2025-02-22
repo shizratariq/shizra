@@ -76,24 +76,20 @@ education:
       - Microcontrollers, AI, Machine learning, Computer Vision, Image processing, Control systems
 
 work:
-- position: Research Assistant
+  - position: Research Assistant
     company_name: University of Minnesota
-    company_url: ''
-    company_logo: ''
     date_start: 2024-06-01
     date_end: ''
     summary: |
-      - Worked on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2.
+      - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
       - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
   
   - position: Technical Project Manager
     company_name: Quantum-h, UK
-    company_url: ''
-    company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-01-01
     summary: |
-      - Led Cross-Functional Agile teams for software development and data management.
+      - Led Agile teams for software development and data management.
       - Designed scalable database architectures, improving data retrieval speed by 30%.
   
   - position: Research Assistant
@@ -102,80 +98,34 @@ work:
     date_end: 2023-01-01
     summary: |
       - Developed AI-powered image recognition models using TensorFlow and PyTorch.
-      - Improved real-time image processing with high-performance Numpy computations.
+      - Enhanced real-time image processing with optimized Numpy computations.
 
-  - position: Machine Learning Intern
-    company_name: Advance Automation & Robotics Lab - ARAL, Pakistan
-    date_start: 2022-01-01
-    date_end: 2022-12-01
-    summary: |
-      - Worked on the Prosthetic Arm project, implementing SVM classification using MATLAB and Python.
-      - Processed muscle signal data and utilized Python libraries for analysis.
-  
-  - position: AI Intern
-    company_name: OPENAIMP, USA
-    date_start: 2021-01-01
-    date_end: 2021-12-01
-    summary: |
-      - Engineered AI chatbots with RASA, reducing response time by over 10 seconds.
-  
-projects:
-  - title: Breast Cancer Detection
-    description: Developed a mammography-based breast cancer detection system achieving 96.49% accuracy.
-    link: https://github.com/shizratariq/Breast-Cancer-Detection
-
-  - title: Super Resolution & Object Detection
-    description: Used SRGAN to enhance aerial imagery and YOLOv11-OBB for improved object detection.
-    link: https://github.com/anwesha-umn/Super_resolution_object_detection
-
-  - title: Turtlebot3 RRT Pathfinder
-    description: Implemented RRT algorithm for autonomous navigation using Gazebo simulation.
-    link: https://github.com/shizratariq/Turtlebot3-RRT-Pathfinder.git
-
-  - title: Accurate Subtitle Generation
-    description: Integrated Whisper-Timestamped with LLMs to reduce WER/CER by 30% for video subtitles.
-    link: https://github.com/anwesha-umn/TranscribeAI_subtitle_generation.git
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - category: Programming Languages
     items:
-      - name: Python
-      - name: C/C++
-      - name: C#
-      - name: JavaScript
-      - name: MATLAB
-      - name: SQL
+      - Python
+      - C/C++
+      - C#
+      - JavaScript
+      - MATLAB
+      - SQL
   
-  - name: Tools & Frameworks
+  - category: Tools & Frameworks
     items:
-      - name: Git/GitHub
-      - name: Linux
-      - name: CUDA
-      - name: PyTorch
-      - name: OpenCV
-      - name: PyBullet
-      - name: JIRA
-
-languages:
-  - name: English
-    percent: 100
-  - name: Urdu
-    percent: 100
-  - name: Punjabi
-    percent: 100
+      - Git/GitHub
+      - Linux
+      - CUDA
+      - PyTorch
+      - OpenCV
+      - PyBullet
+      - JIRA
 
 certificates:
   - title: Machine Learning
   - title: Python for AI
   - title: Convolutional Neural Networks
   - title: SQL
-  - 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Fulbright Scholarship Program 2023 Awardee
     awarder: IIE, USA
@@ -185,5 +135,5 @@ awards:
     awarder: IREX, USA (Fall 2021)
 
 ## About Me
-Shizra Tariq is a Robotics and Machine Learning Engineer with expertise in AI, Computer Vision, and Robotics. She has experience in research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work involves deep learning, NLP, and optimizing AI models for practical applications.
+Shizra Tariq is a Robotics and Machine Learning Engineer specializing in AI, Computer Vision, and Robotics. She has experience in both research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work focuses on deep learning, NLP, and optimizing AI models for practical applications.
 ---
