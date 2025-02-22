@@ -72,15 +72,47 @@ education:
       Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant 
+    company_name: College of Science and Engineering, University of Minnesota
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-05-01
+    date_end: 2024-08-27
     summary: |2-
       Responsibilities include:
+      - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 using python.
+      - Mapped singular configurations in C-space to improve motion planning. Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
