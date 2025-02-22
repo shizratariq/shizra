@@ -83,17 +83,6 @@ work:
       - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm.
       - Worked with ROS2 and MoveIt2 using Python.
       - Mapped singular configurations in C-space to improve motion planning.
-  - position: Research Assistant 
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
