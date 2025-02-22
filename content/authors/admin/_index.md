@@ -59,16 +59,16 @@ education:
     date_end: 2025-12-01
     summary: |
       GPA: 3.8/4.0
-    
       Relevant Courses: Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
+    
   - area: BS in Computer Engineering
     institution: Khwaja Fareed University of Engineering - KFUEIT
     date_start: 2018-08-01
     date_end: 2022-05-22
     summary: |
       GPA: 3.85/4.0 (Gold Medalist)
-    
       Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -96,7 +96,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -110,7 +110,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Tools & Frameworks
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -127,6 +127,13 @@ skills:
         percent: 80
         icon: camera
 
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,4 +169,4 @@ awards:
 
 ## About Me
 
-Shizra Tariq is a Robotics and Machine Learning Engineer specializing in AI, Computer Vision, and Robotics. She has experience in both research and industry, working on robotic surgery, prosthetic arms, and AI-driven automation. Her work focuses on deep learning, NLP, and optimizing AI models for practical applications.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
