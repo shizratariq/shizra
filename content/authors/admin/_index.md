@@ -70,39 +70,28 @@ education:
     
       Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
 work:
-  - position: Research Assistant
-    company_name: University of Minnesota
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2024-06-01
+    date_start: 2021-01-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
-      - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
-      - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
-  
-  - position: Technical Project Manager
-    company_name: Quantum-h, UK
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2024-01-01
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Led Agile teams for software development and data management.
-      - Designed scalable database architectures, improving data retrieval speed by 30%.
-
-  - position: Research Assistant
-    company_name: Abel & Mercer Co., UK
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2024-01-01
-    summary: |
-      Responsibilities include:
-      - Developed AI-powered image recognition models using TensorFlow and PyTorch.
-      - Enhanced real-time image processing with optimized Numpy computations.
-
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
