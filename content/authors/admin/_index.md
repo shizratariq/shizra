@@ -76,7 +76,7 @@ work:
     company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
       - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
@@ -104,7 +104,7 @@ work:
       - Enhanced real-time image processing with optimized Numpy computations.
         
   - position: Machine Learning Intern 
-    company_name:  AdvanceAutomation & Robotics Lab- ARAL, Pakistan
+    company_name: Advance Automation & Robotics Lab - ARAL, Pakistan
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
@@ -112,18 +112,21 @@ work:
     summary: |
       Responsibilities include:
       - Contributed to the Prosthetic Arm project, implementing SVM classification using MATLAB and Python.
-      - Processed muscle signal data using FMG sensors. Utilized Python libraries like scikit-learn, pandas, and TensorFlow for data analysis.
+      - Processed muscle signal data using FMG sensors.
+      - Utilized Python libraries like scikit-learn, pandas, and TensorFlow for data analysis.
         
   - position: Artificial Intelligence Intern  
-    company_name:  OPENAIMP, United States
+    company_name: OPENAIMP, United States
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-01-01
     summary: |
       Responsibilities include:
-      - Engineered and deployed AI chatbots using RASA, enhancing user engagement by crafting 15 distinct conversational flows that improved interaction efficiency and reduced average response time by over 10 seconds per inquiry
-  
+      - Engineered and deployed AI chatbots using RASA.
+      - Crafted 15 distinct conversational flows that improved interaction efficiency.
+      - Reduced average response time by over 10 seconds per inquiry.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
