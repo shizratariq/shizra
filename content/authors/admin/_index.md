@@ -102,30 +102,7 @@ work:
       Responsibilities include:
       - Developed AI-powered image recognition models using TensorFlow and PyTorch.
       - Enhanced real-time image processing with optimized Numpy computations.
-        
-  - position: Machine Learning Intern 
-    company_name: Advance Automation & Robotics Lab - ARAL, Pakistan
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2024-01-01
-    summary: |
-      Responsibilities include:
-      - Contributed to the Prosthetic Arm project, implementing SVM classification using MATLAB and Python.
-      - Processed muscle signal data using FMG sensors.
-      - Utilized Python libraries like scikit-learn, pandas, and TensorFlow for data analysis.
-        
-  - position: Artificial Intelligence Intern  
-    company_name: OPENAIMP, United States
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2024-01-01
-    summary: |
-      Responsibilities include:
-      - Engineered and deployed AI chatbots using RASA.
-      - Crafted 15 distinct conversational flows that improved interaction efficiency.
-      - Reduced average response time by over 10 seconds per inquiry.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
