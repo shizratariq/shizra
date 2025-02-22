@@ -70,58 +70,60 @@ education:
 work:
   - position: Research Assistant
     company_name: University of Minnesota
+    company_url: ''
+    company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-    summary: |
+    summary: |2-
+      Responsibilities include:
       - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
       - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
   
   - position: Technical Project Manager
     company_name: Quantum-h, UK
+    company_url: ''
+    company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-01-01
     summary: |
-      - Led Agile teams for software development and data management.
+      Responsibilities include:
+       - Led Agile teams for software development and data management.
       - Designed scalable database architectures, improving data retrieval speed by 30%.
   
-  - position: Research Assistant
-    company_name: Abel & Mercer Co., UK
-    date_start: 2022-01-01
-    date_end: 2023-01-01
-    summary: |
-      - Developed AI-powered image recognition models using TensorFlow and PyTorch.
-      - Enhanced real-time image processing with optimized Numpy computations.
-
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - category: Programming Languages
+  - name: Programming Languages
     items:
-      - Python
-      - C/C++
-      - C#
-      - JavaScript
-      - MATLAB
-      - SQL
-  
-  - category: Tools & Frameworks
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Tools & Frameworks
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
-      - Git/GitHub
-      - Linux
-      - CUDA
-      - PyTorch
-      - OpenCV
-      - PyBullet
-      - JIRA
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
