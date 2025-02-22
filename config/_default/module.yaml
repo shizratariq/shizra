@@ -23,3 +23,6 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  # Add this new mount for your custom CSS
+  - source: static/custom.css
+    target: assets/css/custom.css
