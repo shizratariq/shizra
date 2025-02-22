@@ -54,3 +54,12 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+module:
+  mounts:
+    - source: static/custom.css
+      target: assets/css/custom.css
+
+assets:
+  custom_css: ["css/custom.css"]
