@@ -68,62 +68,52 @@ education:
       GPA: 3.85/4.0 (Gold Medalist)
       Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Research Assistant
+    company_name: University of Minnesota
+    date_start: 2024-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted research on robotic surgery using the UR5e robotic arm with ROS2 and MoveIt2.
+      - Mapped singular configurations in C-space and developed motion planning algorithms for aquatic environments.
+  
+  - position: Technical Project Manager
+    company_name: Quantum-h, UK
+    date_start: 2023-01-01
+    date_end: 2024-01-01
+    summary: |
+      - Led Agile teams for software development and data management.
+      - Designed scalable database architectures, improving data retrieval speed by 30%.
+  
+  - position: Research Assistant
+    company_name: Abel & Mercer Co., UK
+    date_start: 2022-01-01
+    date_end: 2023-01-01
+    summary: |
+      - Developed AI-powered image recognition models using TensorFlow and PyTorch.
+      - Enhanced real-time image processing with optimized Numpy computations.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - category: Programming Languages
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - Python
+      - C/C++
+      - C#
+      - JavaScript
+      - MATLAB
+      - SQL
+  
+  - category: Tools & Frameworks
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - Git/GitHub
+      - Linux
+      - CUDA
+      - PyTorch
+      - OpenCV
+      - PyBullet
+      - JIRA
 
 languages:
   - name: English
