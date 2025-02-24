@@ -78,7 +78,7 @@ work:
     company_logo: ''
     date_start: 2024-05-01
     date_end: 2024-08-27
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm.
       - Worked with ROS2 and MoveIt2 using Python.
